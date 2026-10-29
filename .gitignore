@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local uploads and temp files
+uploads/
+temp/
+*.pdf
+*.docx
+
+# IDE
+.vscode/
