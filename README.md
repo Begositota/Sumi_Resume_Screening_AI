@@ -1,6 +1,6 @@
 # AI-Powered Resume Screening Application
 
-A local Python web application built with Streamlit and Ollama designed to parse, analyze, and score candidate resumes against specific job descriptions.
+A local Python web application built with Streamlit and Ollama (llama 3.2) designed to parse, analyze, and score candidate resumes against specific job descriptions.
 
 ## Features
 * **Resume Parsing:** Extracts text and key details from candidate documents.
